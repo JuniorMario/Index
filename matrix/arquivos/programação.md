@@ -2,7 +2,7 @@
 
 #####OBS: O link referente ao nome da linguagem é a documentação oficial. 
 
-Última atualização feita por **Methz**: 19/03/2016 - 20:00.    
+Última atualização feita por **Methz**: 22/03/2016 - 13:55.    
 
 Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 - - -
@@ -16,7 +16,6 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 * [Linguagens Desk](#linguagens-desk)
  * [C](#c)
  * [C++](#c-1)
- * [C#](#c-sharp)
  * [Perl](#perl)
  * [Python](#python)
  * [Ruby](#ruby)
@@ -29,9 +28,10 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
  * [Bootstrap](#bootstrap)
  * [Django](#django)
 
----------------------------------------------------------------------------------- 
+- - - 
 #Linguagens Web
----------------------------------------------------------------------------------- 
+- - - 
+
 ##[HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 >##### Inglês  
@@ -41,8 +41,9 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 >##### Português   
 * [Codecademy](https://www.codecademy.com/pt-BR/learn/web)
 * [Dive Into HTML5](https://diveintohtml5.com.br/)
- 
----------------------------------------------------------------------------------- 
+
+
+- - - 
 ##[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 >##### Inglês    
@@ -59,8 +60,9 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 * [Codecademy](http://www.codecademy.com/pt-BR/learn/javascript)
 * [Desvendando a Linguagem JS](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 * [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico)
+
     
----------------------------------------------------------------------------------- 
+- - - 
 ##[PHP](https://php.net/manual/pt_BR/index.php)
     
 >##### Inglês 
@@ -72,9 +74,11 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 * [Codecademy](http://www.codecademy.com/pt-BR/tracks/php)
 * [PHP Do Jeito Certo](http://br.phptherightway.com/)
  
-----------------------------------------------------------------------------------          
+
+- - -          
 #Linguagens Desk
-----------------------------------------------------------------------------------    
+- - -    
+
 ##[C](http://en.cppreference.com/w/c)
     
 >##### Inglês   
@@ -85,10 +89,11 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 
 >##### Português   
 * [De Aluno para Aluno](https://www.youtube.com/user/italogross/playlists)
-* [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) Download Direto
+* [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (**Download Direto**)
 * [Unicamp - Introdução ao Curso de C](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html)
-    
-----------------------------------------------------------------------------------   
+
+   
+- - -  
 ##[C++](http://en.cppreference.com/w/cpp)
     
 >##### Inglês   
@@ -101,14 +106,9 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 * [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/%7Eslago/slago-C++.pdf)
 * [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#)
 * [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf)
+
     
-----------------------------------------------------------------------------------  
-##[C Sharp](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)  
-
->##### Português   
-* [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)  
-
----------------------------------------------------------------------------------- 
+- - -
 ##[Perl](http://doc.perl6.org/)
     
 >##### Inglês   
@@ -116,14 +116,15 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 * [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/)
 * [Perl in 2 hour](http://qntm.org/files/perl/perl.html)
 * [Perl5 in 21 days](http://wwwacs.gantep.edu.tr/docs/perl-ebook/)
-* [The Hard Way](http://www.greenteapress.com/perl/perl.pdf) Download Direto
+* [The Hard Way](http://www.greenteapress.com/perl/perl.pdf) (**Download Direto**)
 * [Toturial Point](http://www.tutorialspoint.com/perl/)
     
 >##### Português   
 * [Cooler Perl Book](www.docfoc.com/download/documents/book-perl-cooler)
 * [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
+
  
----------------------------------------------------------------------------------- 
+- - -
 ##[Python](https://www.python.org/doc/versions/)
     
 >##### Inglês   
@@ -140,10 +141,11 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
     
 >##### Português   
 * [Codecademy](http://www.codecademy.com/pt-BR/tracks/python)
-* [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) Download Direto
+* [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (**Download Direto**)
 * [Python para Zumbi](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+
         
-----------------------------------------------------------------------------------
+- - -
 ##[Ruby](http://ruby-doc.org/)
     
 >##### Inglês   
@@ -158,9 +160,11 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br/)
 
 
-----------------------------------------------------------------------------------
+- - -
 #Outras
-----------------------------------------------------------------------------------
+- - -
+
+
 ##[Haskell](https://www.haskell.org/)
 
 >##### Inglês 
@@ -170,44 +174,48 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 * [Aprenda Haskell](http://haskell.tailorfontela.com.br/chapters)
 * [Lean X in Y Minutes](http://learnxinyminutes.com/docs/pt-br/haskell-pt/)
 
----------------------------------------------------------------------------------- 
+
+- - - 
 ##[Lisp](http://lispdoc.com/index)
 
 >##### Inglês   
-* [Cooper Book](http://www.franz.com/resources/educational_resources/cooper.book.pdf) Download Direto
-* [The Hard Way](http://learnlispthehardway.org/book/)
+* [Cooper Book](http://www.franz.com/resources/educational_resources/cooper.book.pdf) (**Download Direto**)
 * [Lisp Hackers](https://leanpub.com/lisphackers/read)
+* [The Hard Way](http://learnlispthehardway.org/book/)
+
     
-----------------------------------------------------------------------------------
+- - -
 ##[Shell Script](http://www.tldp.org/LDP/abs/html/)
 
 >##### Inglês 
 * [A Beginner Handbook](http://www.freeos.com/guides/lsst/)
+* [Advanced Bash - Scripting Guide](http://www.tldp.org/LDP/abs/html/index.html)
 * [Bash Programming - How To](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-* [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/index.html)
     
 >##### Português   
-* [Tutorial Shell Script](http://www.devin.com.br/shell_script/)
 * [Devmedia](http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)
 * [Introdução ao Shell - Aurélio](http://aurelio.net/shell/apostila-introducao-shell.pdf) Download Direto
+* [Tutorial Shell Script](http://www.devin.com.br/shell_script/)
 
-----------------------------------------------------------------------------------  
+
+- - -  
 #Frameworks
-----------------------------------------------------------------------------------
+- - -
+
+
 ##[Ruby on Rails](http://guides.rubyonrails.org/)
     
 >##### Inglês 
 * [The Odin Project](http://www.theodinproject.com/ruby-on-rails)
 * [Thinkful](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
-* [Build a Application](http://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application)
 * [Rails Tutorial](https://www.railstutorial.org/book)
         
 >##### Português 
 * [Caelum](http://www.caelum.com.br/apostila-ruby-on-rails/)
-* [Primeiros Passos](http://www.maujor.com/railsgirlsguide/)
-* [Codecademy](https://www.codecademy.com/pt-BR/courses/rails-auth)
+* [Rails Girls Traduzido](http://www.maujor.com/railsgirlsguide/)
 
-----------------------------------------------------------------------------------
+
+- - -
 ##[Bootstrap](https://bootstrapdocs.com/)  
 
 >##### Inglês   
@@ -215,23 +223,20 @@ Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 * [Twitter Bootstrap Succinctly 3](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3)  
 
 >##### Português 
-* [Canal Tekzoom](https://www.youtube.com/playlist?list=PLZL68elhOXv8w18dKzui2qZ2KjH6X8gIG)  
 * [Canal JCursos](https://www.youtube.com/playlist?list=PLdRLfw1rdyFEtDGAcPoPFQg5po6i3XJtz)  
 * [Canal PontoCanal](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVqVsGPcq1eojBJH5Lxq8hTQ)  
-* [Canal FalconMaster](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW)  
 
-----------------------------------------------------------------------------------
+
+- - -
 ##[Django](https://docs.djangoproject.com/en/1.8/)  
 
 >##### Inglês 
-* [Django by Example 1.2](http://www.lightbird.net/dbe/)  
-* [Django by Example 1.7](http://www.lightbird.net/dbe2/)  
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)  
-* [The Django Book](http://www.djangobook.com/en/2.0/)  
 * [Effective Django](http://www.effectivedjango.com/)  
-* [Getting Started with Django](http://gettingstartedwithdjango.com/)  
+* [Getting Started with Django](http://gettingstartedwithdjango.com/)
+* [The Django Book](http://www.djangobook.com/en/2.0/)  
+  
 
 >##### Portugês 
-* [Python e Django](https://osantana.me/curso-de-python-e-django/)  
-* [Mixincode](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd)  
-
+* [Mixincode](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) 
+* [Python e Django](https://osantana.me/curso-de-python-e-django/) 
