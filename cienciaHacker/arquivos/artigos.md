@@ -1,6 +1,18 @@
 ## Relação de todos os artigos já publicados em nosso [blog](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Criando wordlist com o Crunch](https://blog.cienciahacker.ch/criando-wordlist-com-o-crunch-2/)  
+Quando citamos a palavra “bruteforce” (força bruta), é inevitável deixarmos de pensar em uma wordlist (lista de palavras). Wordlist’s são arquivos que possuem diversas combinações de palavras e/ou números e símbolos com finalidade de realizar um ataque de força bruta, visando identificar uma senha qualquer.
+
+###[Análise de Redes Wireless – Suíte Aircrack-ng](https://blog.cienciahacker.ch/analise-de-redes-wireless-suite-aircrack-ng/)  
+Em tempos onde praticamente qualquer estabelecimento comercial ou residencial possui sua própria rede wireless, não resta dúvida que se trata de um vasto território carente de importantes cuidados com configurações de segurança.
+
+A seguir mostraremos uma dentre tantas formas de se burlar critérios de segurança, que se mal configurados fazem papel contrário ao que se propõem, abrindo brechas de acesso e vulnerabilidades em sua composição.
+
+
+###[Armitage, ferramenta de gerenciamento de ataque cibernético](https://blog.cienciahacker.ch/armitage-ferramenta-de-gerenciamento-de-ataque-cibernetico/)  
+O Armitage é uma ferramenta de gerenciamento de ataques cibernéticos em modo gráfico, foi desenvolvida por Raphael Mudge para tornar o processo de exploração e pós-exploração mais simples.
+
 ###[Explorando recursos de ataque do Meterpreter](https://blog.cienciahacker.ch/explorando-recursos-de-ataque-do-meterpreter/)
 Adentrando ao mundo do Metasploit, o payload Meterpreter (Meta-intérprete) está disponível para a utilização de seus recursos.
 
