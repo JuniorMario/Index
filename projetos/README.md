@@ -111,3 +111,11 @@ Sherlock é uma simples ferramenta escrita em Python para encontrar vulnerabilid
 diretórios e arquivos abertos nas principais estruturas web.
 
 ## Comunidade
+
+- - -
+#### Nipe
+**Proprietário:** [Heitor Gouvea](https://github.com/HeitorG)  
+**Repositório:** [Nipe](https://github.com/HeitorG/nipe)  
+**Descrição:**
+Nipe é um simples script em Perl que tem como objetivo o anonimato
+através da Tor Network.
