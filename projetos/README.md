@@ -83,6 +83,14 @@ Ferramenta para quebrar senhas administrativas de roteadores Wireless, routers, 
 O KillRouter é um script mega simples que criei durante um experiência onde necessitava de uma ferramenta que me auxiliasse em um brute force de senhas simples em um roteador autenticado via JavaScript. Pedindo ajuda ao Dr. Google e aos universitários, obrigado Gambler, encontrei um método de enviar o request junto com a solicitação de usuário e senha no header para o roteador. É claro que existe o projeto THC Hydra, que inclusive gosto muito, nesse aspecto a ferramenta deixa um pouco a deseja no quesito de performance, podendo até enviar requisições perdidas por aí, e isso me levou a pensar em uma forma de simplificar o processo e executar a operação de uma forma quase 3 vezes mais rápida usando Python.
 
 - - -
+#### Nipe
+**Proprietário:** [Heitor Gouvea](https://github.com/HeitorG)  
+**Repositório:** [Nipe](https://github.com/HeitorG/nipe)  
+**Descrição:**
+Nipe é um simples script em Perl que tem como objetivo o anonimato
+através da Tor Network.
+
+- - -
 #### Perl Brasil  
 **Proprietário:** [Heitor Gouvea](https://github.com/HeitorG)  
 **Repositório:** [Perl Brasil](https://github.com/HeitorG/Perl-Brasil)  
@@ -111,11 +119,3 @@ Sherlock é uma simples ferramenta escrita em Python para encontrar vulnerabilid
 diretórios e arquivos abertos nas principais estruturas web.
 
 ## Comunidade
-
-- - -
-#### Nipe
-**Proprietário:** [Heitor Gouvea](https://github.com/HeitorG)  
-**Repositório:** [Nipe](https://github.com/HeitorG/nipe)  
-**Descrição:**
-Nipe é um simples script em Perl que tem como objetivo o anonimato
-através da Tor Network.
