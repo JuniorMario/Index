@@ -1,6 +1,12 @@
 ## Relação de todos os artigos já publicados em nosso [blog](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Encodando backdoor em arquivos .exe](https://blog.cienciahacker.ch/encodando-backdoor-em-arquivos-exe/) 
+Mostraremos alguns dos muitos recursos do Msfvenom, ao qual podemos encodar uma backdoor em um arquivo executável (.exe). De uma forma simples, ele permite que se clone um programa executável anexando nossa backdoor, a qual o programa será executado normalmente rodando o malware em background.  
+
+###[Explorando a vulnerabilidade SQLi via Post – Sqlmap](https://blog.cienciahacker.ch/explorando-falha-sqli-com-sqlmap-metodo-post/)
+Como muito visto, a falha de SQLi é muito abordada sobre o modo de exploração via GET, que se explora através dos parâmetros na URL. Traremos hoje a exploração do SQLi através do método POST, utilizando a ferramenta Sqlmap. Na exploração via POST, a falha está associada ao formulário da requisição que é enviado pela aplicação em sua query, sendo possível explorar essa requisição de modo malicioso onde podemos consultar no banco de dados informações do alvo, como login/senhas de usuários, informações de perfis de clientes, entre outras.  
+
 ###[Criando wordlist com o Crunch](https://blog.cienciahacker.ch/criando-wordlist-com-o-crunch-2/)  
 Quando citamos a palavra “bruteforce” (força bruta), é inevitável deixarmos de pensar em uma wordlist (lista de palavras). Wordlist’s são arquivos que possuem diversas combinações de palavras e/ou números e símbolos com finalidade de realizar um ataque de força bruta, visando identificar uma senha qualquer.
 
