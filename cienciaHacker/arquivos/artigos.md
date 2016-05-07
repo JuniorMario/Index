@@ -1,6 +1,15 @@
 ## Relação de todos os artigos já publicados em nosso [blog](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Atacando roteadores com WPS Ativo – Wash / Reaver / Bully](https://blog.cienciahacker.ch/atacando-roteadores-com-wps-ativo-wash-reaver-bully/)  
+Como vimos no post passado sobre a suíte aircrack-ng, utilizada para descobrir senhas de redes wireless, é de extrema importância utilizarmos senhas fortes que sejam complexas o suficiente para “desmotivar” a quebra via brute-force com dicionário de senhas (wordlist). Mas como ressaltamos na conclusão, isso não garante nenhuma segurança se, por exemplo, não tivermos atenção …
+
+###[Cangibrina – Dashboard Finder](https://blog.cienciahacker.ch/cangibrina-dashboard-finder/)  
+Cangibrina é uma ferramenta desenvolvida por mim cujo objetivo é encontrar o painel de administração de websites. Para realizar esta tarefa, o Cangibrina utiliza diversos métodos: Força bruta baseada em wordlist Arquivo robots.txt Pesquisa passiva através dos motores de busca Google e DuckDuckGo Nmap para escaneamento de portas e serviços A fim de tornar a …
+
+###[10 sites para decifrar Hash MD5](https://blog.cienciahacker.ch/10-sites-pra-decrifrar-hash-md5/)  
+Segue a lista de 10 sites para decriptar hash MD5.
+
 ###[Encodando backdoor em arquivos .exe](https://blog.cienciahacker.ch/encodando-backdoor-em-arquivos-exe/) 
 Mostraremos alguns dos muitos recursos do Msfvenom, ao qual podemos encodar uma backdoor em um arquivo executável (.exe). De uma forma simples, ele permite que se clone um programa executável anexando nossa backdoor, a qual o programa será executado normalmente rodando o malware em background.  
 
@@ -128,9 +137,6 @@ O Beholder é uma ferramenta feita em python3 usando o django desenvolvida pelo 
 
 ###[Organon (instalando ferramentas de segurança)](https://blog.cienciahacker.ch/organon-instalando-ferramentas-de-seguranca/)  
 Organon é um ferramenta que tem como objetivo facilitar a instalação de ferramentas para pentest em distribuições GNU/Linux como Ubuntu, Debian, Arch linux entre outras. No momento apenas suporta distribuições que possuam os gerenciadores de pacotes APT e PACMAN, pois depende deles para instalar as dependências necessárias para o bom funcionamento das ferramentas que serão instaladas pelo usuário.  
-
-###[Cangibrina – Dashboard Finder](https://blog.cienciahacker.ch/cangibrina-dashboard-finder/)  
-Hoje trarei uma ferramenta desenvolvida por mim mesmo – UAU – cujo desenvolvimento inicial teve como motivação a aprendizagem da linguagem de programação Python. Portanto, fui adicionando ao longo do tempo vários recursos que achava interessante.  
 
 ###[Explorando vulnerabilidades no WordPress com Wpscan](https://blog.cienciahacker.ch/explorando-vulnerabilidades-no-wordpress-com-wpscan/)  
 Muito utiliza-se CMS (como WordPress, Drupal e Joomla) atualmente, devido o fácil gerenciamento que ele permite fazer em websites, porém o que muitos não sabem é a quantidade de falhas contidas nesses serviços. Traremos hoje a ferramenta Wpscan que é utilizada para fazer varreduras em sites gerenciados por WordPress, buscando por falhas de segurança, nos outros artigos traremos ferramentas de scanners para outros tipos de CMS.  
