@@ -23,7 +23,7 @@ Agora que você sabe como contribuir, vamos te guiar por alguns tópicos para sa
 
 Como esse é um guia que vai abordar todas as sessões do projeto, será organizado por sessões e separado por *orientações* e *formatação*.
 
-### Sessão Programação
+### [Sessão Programação](https://github.com/cienciahacker/Index/blob/master/matrix/arquivos/programa%C3%A7%C3%A3o.md)
 
 Como listado nesse [commit](https://github.com/cienciahacker/Index/commit/4724889cd185eb9d362ab183408d97070579cab7), reformamos a estrutura recentemente e a mesma está incompleta e precisando de formatação. Então pode acontecer da estrutura atual contradizer as orientações e a formatação, logo, siga *explicitamente* as orientações e formatação descrita abaixo e nos ajude.
 
@@ -113,7 +113,7 @@ Inicialmente é isso galera, informações de quebras de linhas e espaços em br
 Essa é a "primeira versão" desse guia e por enquanto irá conter apenas a Sessão de Programação para que vocês possam contribuir de forma adequada.
 Posteriormente terá todas as Sessões aqui, mas por hora, acessem esse outro [guia de contribuição][guia] e qualquer dúvida mandem uma [issue][issue] ou mandem mensagem na [página][page].
 
-Ahhh! Esse guia foi inspirado por esse [aqui](https://github.com/vhf/free-programming-books/blob/master/CONTRIBUTING.md); Espero que tenham gostado da leitura e façam parte da nossa comunidade :blush:
+Ahhh! Esse guia foi inspirado nesse [aqui](https://github.com/vhf/free-programming-books/blob/master/CONTRIBUTING.md); Espero que tenham gostado da leitura e façam parte da nossa comunidade :blush:
 
 [brazilian-flag]: https://github.com/cienciahacker/Index/blob/master/matrix/arquivos/img/brazil_flag.png
 [issue]: https://github.com/cienciahacker/Index/issues
