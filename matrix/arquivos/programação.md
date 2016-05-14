@@ -4,7 +4,7 @@
 
 OBS: Os links referentes aos nomes das linguagens são as documentações oficiais. 
 
-Algo errado? [Contribua](https://github.com/methz/Index/blob/master/contribua.md)
+Algo errado? [Contribua][contribua]
 
 ### Legenda
 
@@ -252,3 +252,4 @@ Rails Girls Traduzido | [Procurar](https:www.link.com/) | [Rails Girls Traduzido
 
 
 [brazilian-flag]: https://github.com/cienciahacker/Index/blob/master/matrix/arquivos/img/brazil_flag.png
+[contribua]: https://github.com/cienciahacker/Index/blob/master/contribua.md
