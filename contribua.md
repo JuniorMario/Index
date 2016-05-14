@@ -25,7 +25,7 @@ Como esse é um guia que vai abordar todas as sessões do projeto, será organiz
 
 ### [Sessão Programação](https://github.com/cienciahacker/Index/blob/master/matrix/arquivos/programa%C3%A7%C3%A3o.md)
 
-Como listado nesse [commit](https://github.com/cienciahacker/Index/commit/4724889cd185eb9d362ab183408d97070579cab7), reformamos a estrutura recentemente e a mesma está incompleta e precisando de formatação. Então pode acontecer da estrutura atual contradizer as orientações e a formatação, logo, siga *explicitamente* as orientações e formatação descrita abaixo e nos ajude.
+Como listado nesse [commit](https://github.com/cienciahacker/Index/commit/4724889cd185eb9d362ab183408d97070579cab7), reformamos a estrutura recentemente e a mesma está incompleta e precisando de formatação. Então pode acontecer da estrutura atual contradizer as orientações e a formatação, logo, siga *explicitamente* as orientações e formatação descritas abaixo e nos ajude.
 
 #### Orientações
 
@@ -45,7 +45,7 @@ Como listado nesse [commit](https://github.com/cienciahacker/Index/commit/472488
 
 * Por favor, façam commits com poucas alterações. Se precisar remover, modificar ou adicionar algo de uma só vez, faça isso em vários commits em vez de um, facilita a análise.
 
-* Estamos satisfeitos por enquanto com a nova estrutura, então não à motivos para modifica-la, apenas contribua com o que já temos. Caso tenha um bom argumento para modificar a estrutura, abra uma [issue][issue].
+* Estamos satisfeitos por enquanto com a nova estrutura, então não há motivos para modifica-la, apenas contribua com o que já temos. Caso tenha um bom argumento para modificar a estrutura, abra uma [issue][issue].
 
 #### Formatação
 
@@ -77,7 +77,7 @@ Como listado nesse [commit](https://github.com/cienciahacker/Index/commit/472488
  >:x: - Não é necessário fazer cadastro para acessar o conteúdo. **Código:** `:x:`  
  >:white_check_mark: - É necessário fazer cadastro para acessar o conteúdo. **Código:** `:white_check_mark:`  
 
-**Suxido** - Tipo do conteúdo.
+**Sufixo** - Tipo do conteúdo.
  >:book: - Para conteúdo está em total - ou sua maior parte - formato de texto. **Código:** `:book:`  
  >:camera: - Para conteúdo está em total - ou sua maior parte - formato de vídeo. **Código:** `:camera:`   
 
