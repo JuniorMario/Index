@@ -4,9 +4,16 @@
 
 OBS: Os links referentes aos nomes das linguagens são as documentações oficiais. 
 
-Última atualização feita por **Methz**: 14/05/2016 - 13:35.    
-
 Algo errado? [Contribua](https://github.com/methz/Index/blob/master/contribua.md)
+
+### Legenda
+
+:us: = Conteúdo em inglês.  
+![][brazilian-flag] = Conteúdo em português.  
+:x: = Não está disponível a opção de download "oficial" / Não é necessário fazer cadastro para acessar o conteúdo.  
+:white_check_mark: = Disponível opção de download "oficial" / É necessário fazer cadastro para acessar o conteúdo.  
+:book: = Conteúdo está em total - ou sua maior parte - formato de texto.  
+:camera: = Conteúdo está em total - ou sua maior parte - formato de vídeo.  
 - - -
 
 # Índice
