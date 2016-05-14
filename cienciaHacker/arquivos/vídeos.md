@@ -3,6 +3,9 @@
 
 ###YouTube
 
+####[Linux: Navegação pelo terminal](https://www.youtube.com/watch?v=p1_Al8i1900)  
+Vídeo aula sobre os comandos básicos de navegação no Linux
+
 ####[Como evitar ter seu roteador sequestrado](https://www.youtube.com/watch?v=48y5ggg5sY8)
 Este vídeo tem como propósito mostrar o quão vulnerável algumas pessoas estão devido a erros humanos na configuração de seus roteadores e/ou modens. E também mostrar como verificar e resolver este problema.
 
