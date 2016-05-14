@@ -1,15 +1,15 @@
-[brazilian-flag]: https://github.com/cienciahacker/Index/blob/master/matrix/arquivos/img/brazil_flag.png
+# Sessão Programação
 
-###Links para te auxíliar na busca de conhecimento em desenvolvimento.
+## Links para te auxíliar na busca de conhecimento em desenvolvimento.
 
-#####OBS: O link referente ao nome da linguagem é a documentação oficial. 
+OBS: Os links referentes aos nomes das linguagens são as documentações oficiais. 
 
-Última atualização feita por **Methz**: 13/05/2016 - 17:40.    
+Última atualização feita por **Methz**: 14/05/2016 - 13:35.    
 
 Algo errado? [Contribua](https://github.com/methz/Index/blob/master/contribua.md)
 - - -
 
-#Índice
+# Índice
 
 * [Linguagens](#linguagens)
  * [C](#c)
@@ -32,8 +32,9 @@ Algo errado? [Contribua](https://github.com/methz/Index/blob/master/contribua.md
 #Linguagens
 - - - 
 
-##[C](http://en.cppreference.com/w/c)
-###Apostilas & Cursos
+
+## [C](http://en.cppreference.com/w/c)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -45,9 +46,10 @@ De Aluno para Aluno | [Procurar](https:www.link.com/) | [De Aluno para Aluno](ht
 O Fantástico Mundo da Linguagem C | [Procurar](https:www.link.com/) | [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) | :us: | :x: | :white_check_mark: | :book: 
 Unicamp - Introdução ao Curso de C | [Procurar](https:www.link.com/) | [Unicamp - Introdução ao Curso de C](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html) | :us: | :x: | :white_check_mark: | :book: 
    
+
 - - -  
-##[C++](http://en.cppreference.com/w/cpp)
-###Apostilas & Cursos
+## [C++](http://en.cppreference.com/w/cpp)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -59,9 +61,10 @@ Apostila Linguagem C++ - Silvio Lago | [Procurar](https:www.link.com/) | [Aposti
 C++ da UFRJ | [Procurar](https:www.link.com/) | [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#) | :us: | :x: | :white_check_mark: | :book: 
 Programação Orientada a Objetos em C++ | [Procurar](https:www.link.com/) | [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) | :us: | :x: | :white_check_mark: | :book:
 
+
 - - -
-##[Haskell](https://www.haskell.org/)
-###Apostilas & Cursos
+## [Haskell](https://www.haskell.org/)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -69,9 +72,10 @@ Documentation - Many Links | [Procurar](https:www.link.com/) | [Documentation - 
 Aprenda Haskell | [Procurar](https:www.link.com/) | [Aprenda Haskell](http://haskell.tailorfontela.com.br/chapters) | :us: | :x: | :white_check_mark: | :book: 
 Lean X in Y Minutes | [Procurar](https:www.link.com/) | [Lean X in Y Minutes](http://learnxinyminutes.com/docs/pt-br/haskell-pt/) | :us: | :x: | :white_check_mark: | :book: 
 
+
 - - -
-##[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/)
-###Apostilas & Cursos
+## [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -80,9 +84,10 @@ HTML e CSS | [Codecademy](https://www.codecademy.com/) | [HTML e CSS](https://ww
 HTML5 from Scratch | [Udemy](https://www.udemy.com/) | [HTML5 from Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/) | :us: | :x: | :white_check_mark: | :camera:
 HTML5 Tutorial | [W3schools](http://www.w3schools.com/) | [HTML5 Tutorial](http://www.w3schools.com/html/default.asp) | :us: | :x: | :white_check_mark: | :book:
 
+
 - - - 
-##[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-###Apostilas & Cursos  
+## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### Apostilas & Cursos  
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -98,7 +103,7 @@ JavaScript Tutorial | [W3schools](http://www.w3schools.com/) | [HTML5 Tutorial](
 Learn JavaScript | [GitBook](https://www.gitbook.com/@gitbookio) | [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/) | :us: | :white_check_mark: |:white_check_mark: | :book:
 Speaking JS | [Axel Rauschmayer](https://twitter.com/rauschma) | [Speaking JS](http://speakingjs.com/es5/index.html) | :us: | :x: | :white_check_mark: | :book:
 
-###Artigos
+### Artigos
 
 Assunto | Título | Lang 
 :-- | :-- | :--: 
@@ -106,9 +111,10 @@ Eng. de Software | [Engenharia de Software com JavaScript - 02. Engenharia e seu
 Ori. a Objetos | [Otimizando seu JavaScript](http://developers.scup.com/otimizando-seu-javascript-no-v8-node-js/) | ![][brazilian-flag]
 Estrutura de Dados| [Boas Práticas JavaScript - Separe Dados de Configuração](http://programadorobjetivo.co/boas-praticas-javascript-separe-dados-de-configuracao/) | ![][brazilian-flag]
 
+
 - - - 
-##[Lisp](http://lispdoc.com/index)
-###Apostilas & Cursos
+## [Lisp](http://lispdoc.com/index)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -116,9 +122,10 @@ Cooper Book | [Procurar](https:www.link.com/) | [Cooper Book](http://www.franz.c
 Lisp Hackers | [Procurar](https:www.link.com/) | [Lisp Hackers](https://leanpub.com/lisphackers/read) | :us: | :x: | :white_check_mark: | :book: 
 The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://learnlispthehardway.org/book/) | :us: | :x: | :white_check_mark: | :book:  
 
+
 - - -
-##[Perl](http://doc.perl6.org/)
-###Apostilas & Cursos
+## [Perl](http://doc.perl6.org/)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -131,9 +138,10 @@ Toturial Point | [Procurar](https:www.link.com/) | [Toturial Point](http://www.t
 Cooler Perl Book | [Procurar](https:www.link.com/) | [Cooler Perl Book](www.docfoc.com/download/documents/book-perl-cooler) | :us: | :x: | :white_check_mark: | :book: 
 Perl Básico | [Procurar](https:www.link.com/) | [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) | :us: | :x: | :white_check_mark: | :book: 
 
+
 - - - 
-##[PHP](https://php.net/manual/pt_BR/index.php)
-###Apostilas & Cursos
+## [PHP](https://php.net/manual/pt_BR/index.php)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -142,9 +150,10 @@ PHP Do Jeito Certo | [Josh Lockhart](https://github.com/codeguy) | [PHP Do Jeito
 PHP5 Tutorial | Procurar | [PHP5 Tutorial](http://www.php5-tutorial.com/) | :us: | :x: |:white_check_mark: | :book: 
 The Right Way | Procurar | [The Right Way](http://www.phptherightway.com/) | :us: | :x: | :white_check_mark: | :book: 
 
+
 - - -
-##[Python](https://www.python.org/doc/versions/)
-###Apostilas & Cursos
+## [Python](https://www.python.org/doc/versions/)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -161,10 +170,11 @@ The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://learnpyth
 Codecademy | [Procurar](https:www.link.com/) | [Codecademy](http://www.codecademy.com/pt-BR/tracks/python) | :us: | :x: | :white_check_mark: | :book: 
 Python para Desenvolvedores 2ed | [Procurar](https:www.link.com/) | [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) | :us: | :x: | :white_check_mark: | :book: 
 Python para Zumbi | [Procurar](https:www.link.com/) | [Python para Zumbi](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc) | :us: | :x: | :white_check_mark: | :book: 
-        
+     
+
 - - -
-##[Ruby](http://ruby-doc.org/)
-###Apostilas & Cursos
+## [Ruby](http://ruby-doc.org/)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -176,9 +186,10 @@ Codecademy | [Procurar](https:www.link.com/) | [Codecademy](http://www.codecadem
 O Guia (comovente) de Ruby | [Procurar](https:www.link.com/) | [O Guia (comovente) de Ruby](comovente) | :us: | :x: | :white_check_mark: | :book: 
 Aprenda a Programar | [Procurar](https:www.link.com/) | [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br/) | :us: | :x: | :white_check_mark: | :book: 
     
+
 - - -
-##[Shell Script](http://www.tldp.org/LDP/abs/html/)
-###Apostilas & Cursos
+## [Shell Script](http://www.tldp.org/LDP/abs/html/)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -189,12 +200,14 @@ Devmedia | [Procurar](https:www.link.com/) | [Devmedia](http://www.devmedia.com.
 Introdução ao Shell - Aurélio | [Procurar](https:www.link.com/) | [Introdução ao Shell - Aurélio](http://aurelio.net/shell/apostila-introducao-shell.pdf) | :us: | :x: | :white_check_mark: | :book: 
 Tutorial Shell Script | [Procurar](https:www.link.com/) | [Tutorial Shell Script](http://www.devin.com.br/shell_script/) | :us: | :x: | :white_check_mark: | :book: 
 
+
 - - -  
 #Frameworks
 - - -
 
-##[Bootstrap](https://bootstrapdocs.com/)  
-###Apostilas & Cursos
+
+## [Bootstrap](https://bootstrapdocs.com/)  
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -203,9 +216,10 @@ Twitter Bootstrap Succinctly 3 | [Procurar](https:www.link.com/) | [Twitter Boot
 Canal JCursos | [Procurar](https:www.link.com/) | [Canal JCursos](https://www.youtube.com/playlist?list=PLdRLfw1rdyFEtDGAcPoPFQg5po6i3XJtz) | :us: | :x: | :white_check_mark: | :book: 
 Canal PontoCanal | [Procurar](https:www.link.com/) | [Canal PontoCanal](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVqVsGPcq1eojBJH5Lxq8hTQ) | :us: | :x: | :white_check_mark: | :book: 
 
+
 - - -
-##[Django](https://docs.djangoproject.com/en/1.8/)  
-###Apostilas & Cursos
+## [Django](https://docs.djangoproject.com/en/1.8/)  
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -216,9 +230,10 @@ The Django Book | [Procurar](https:www.link.com/) | [The Django Book](http://www
 Mixincode | [Procurar](https:www.link.com/) | [Mixincode](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) | :us: | :x: | :white_check_mark: | :book: 
 Python e Django | [Procurar](https:www.link.com/) | [Python e Django](https://osantana.me/curso-de-python-e-django/) | :us: | :x: | :white_check_mark: | :book: 
 
+
 - - -
-##[Ruby on Rails](http://guides.rubyonrails.org/)
-###Apostilas & Cursos
+## [Ruby on Rails](http://guides.rubyonrails.org/)
+### Apostilas & Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -227,3 +242,6 @@ Thinkful | [Procurar](https:www.link.com/) | [Thinkful](http://www.thinkful.com/
 Rails Tutorial | [Procurar](https:www.link.com/) | [Rails Tutorial](https://www.railstutorial.org/book) | :us: | :x: | :white_check_mark: | :book: 
 Caelum | [Procurar](https:www.link.com/) | [Caelum](http://www.caelum.com.br/apostila-ruby-on-rails/) | :us: | :x: | :white_check_mark: | :book: 
 Rails Girls Traduzido | [Procurar](https:www.link.com/) | [Rails Girls Traduzido](http://www.maujor.com/railsgirlsguide/) | :us: | :x: | :white_check_mark: | :book: 
+
+
+[brazilian-flag]: https://github.com/cienciahacker/Index/blob/master/matrix/arquivos/img/brazil_flag.png
