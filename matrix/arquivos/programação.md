@@ -93,6 +93,15 @@ HTML5 from Scratch | [Udemy](https://www.udemy.com/) | [HTML5 from Scratch](http
 HTML5 Tutorial | [W3schools](http://www.w3schools.com/) | [HTML5 Tutorial](http://www.w3schools.com/html/default.asp) | :us: | :x: | :white_check_mark: | :book:
 
 
+- - -
+## [Java](http://www.oracle.com/technetwork/java/javase/documentation/index.html)
+### Apostilas & Cursos
+
+Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo
+:-- | :-- | :-- | :--: | :--: | :--: | :--:
+Java e OO | [Caelum](https://www.caelum.com.br) | [Java e OO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :x: | :white_check_mark: | :book:
+
+
 - - - 
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ### Apostilas & Cursos  
@@ -119,13 +128,6 @@ Eng. de Software | [Engenharia de Software com JavaScript - 02. Engenharia e seu
 Ori. a Objetos | [Otimizando seu JavaScript](http://developers.scup.com/otimizando-seu-javascript-no-v8-node-js/) | ![][brazilian-flag]
 Estrutura de Dados| [Boas Práticas JavaScript - Separe Dados de Configuração](http://programadorobjetivo.co/boas-praticas-javascript-separe-dados-de-configuracao/) | ![][brazilian-flag]
 
-- - -
-## [Java](http://www.oracle.com/technetwork/java/javase/documentation/index.html)
-### Apostilas & Cursos
-
-Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo
-:-- | :-- | :-- | :--: | :--: | :--: | :--:
-Java e OO | [Caelum](https://www.caelum.com.br) | [Java e OO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :x: | :white_check_mark: | :book:
 
 - - - 
 ## [Lisp](http://lispdoc.com/index)
