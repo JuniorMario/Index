@@ -125,7 +125,7 @@ Estrutura de Dados| [Boas Práticas JavaScript - Separe Dados de Configuração]
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
-Java e OO | [Caelum](https://www.caelum.com.br) | [JavaOO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :x: | :white_check_mark: | :book:
+Java e OO | [Caelum](https://www.caelum.com.br) | [Java e OO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :x: | :white_check_mark: | :book:
 
 - - - 
 ## [Lisp](http://lispdoc.com/index)
