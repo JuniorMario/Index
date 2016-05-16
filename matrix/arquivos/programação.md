@@ -99,7 +99,7 @@ HTML5 Tutorial | [W3schools](http://www.w3schools.com/) | [HTML5 Tutorial](http:
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
-Java e Orientação a Objetos | [Caelum](https://www.caelum.com.br) | [Java e OO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :x: | :white_check_mark: | :book:
+Java e Orientação a Objetos | [Caelum](https://www.caelum.com.br) | [Java e OO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :white_check_mark: | :x: | :book:
 
 
 - - - 
