@@ -22,7 +22,8 @@ Algo errado? [Contribua][contribua]
  * [C](#c)
  * [C++](#c-1)
  * [Haskell](#haskell)
- * [HTML](#html) 
+ * [HTML](#html)
+ * [Java](#java)
  * [JavaScript](#javascript)
  * [Lisp](#lisp)
  * [Perl](#perl)
@@ -91,6 +92,15 @@ HTML e CSS | [Codecademy](https://www.codecademy.com/) | [HTML e CSS](https://ww
 HTML5 from Scratch | [Udemy](https://www.udemy.com/) | [HTML5 from Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/) | :us: | :x: | :white_check_mark: | :camera:
 HTML5 Tutorial | [W3schools](http://www.w3schools.com/) | [HTML5 Tutorial](http://www.w3schools.com/html/default.asp) | :us: | :x: | :white_check_mark: | :book:
 
+
+- - -
+## [Java](http://www.oracle.com/technetwork/java/javase/documentation/index.html)
+### Apostilas & Cursos
+
+Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo
+:-- | :-- | :-- | :--: | :--: | :--: | :--:
+Java e Orientação a Objetos | [Caelum](https://www.caelum.com.br) | [Java e OO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :white_check_mark: | :x: | :book:
+Introdução à Ciência da Computação com Java e Orientação a Objetos| [CCSL-USP](http://ccsl.ime.usp.br/) | [Introdução à Ciência da Computação com Java e Orientação a Objetos](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf) | ![][brazilian-flag] | :white_check_mark: | :x: | :book:
 
 - - - 
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
