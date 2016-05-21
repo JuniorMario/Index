@@ -42,17 +42,15 @@ Algo errado? [Contribua][contribua]
 
 
 ## [C](http://en.cppreference.com/w/c)
-### Cursos
+### Livros
 
-Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
+Nome | Autor | Livro | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
-C on The Unix | [Procurar](https:www.link.com/) | [C on The Unix](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) | :us: | :x: | :white_check_mark: | :book: 
-Deep C | [Procurar](https:www.link.com/) | [Deep C](http://pt.slideshare.net/olvemaudal/deep-c) | :us: | :x: | :white_check_mark: | :book: 
-The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://c.learncodethehardway.org/book/) | :us: | :x: | :white_check_mark: | :book: 
-Tutorial Point | [Procurar](https:www.link.com/) | [Tutorial Point](http://www.tutorialspoint.com/cprogramming/index.htm) | :us: | :x: | :white_check_mark: | :book: 
-De Aluno para Aluno | [Procurar](https:www.link.com/) | [De Aluno para Aluno](https://www.youtube.com/user/italogross/playlists) | :us: | :x: | :white_check_mark: | :book: 
-O Fantástico Mundo da Linguagem C | [Procurar](https:www.link.com/) | [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) | :us: | :x: | :white_check_mark: | :book: 
-Unicamp - Introdução ao Curso de C | [Procurar](https:www.link.com/) | [Unicamp - Introdução ao Curso de C](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html) | :us: | :x: | :white_check_mark: | :book: 
+De Aluno para Aluno | [Italo Grossi](https://www.facebook.com/igitalo) | [De Aluno para Aluno](https://www.youtube.com/user/italogross/playlists) | ![][brazilian-flag] | :white_check_mark: | :x: | :camera: 
+O Fantástico Mundo da Linguagem C | [Alexandre Fiori](https://github.com/fiorix) | [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) | ![][brazilian-flag] | :white_check_mark: | :x: | :book: 
+Deep C | [Olve Maudal](https://twitter.com/olvemaudal) | [Deep C](http://www.pvv.org/~oma/DeepC_slides_oct2011.pdf) | :us: | :white_check_mark: | :x: | :book: 
+The Hard Way | [404 Not Found](www.nãoencontrado.com.br) | [The Hard Way](http://c.learncodethehardway.org/book/) | :us: | :x: | :x: | :book: 
+Tutorial Point | [Tutorial Point](http://www.tutorialspoint.com/) | [Tutorial Point](http://www.tutorialspoint.com/cprogramming/index.htm) | :us: | :x: | :x: | :book: 
    
 
 - - -  
@@ -61,13 +59,13 @@ Unicamp - Introdução ao Curso de C | [Procurar](https:www.link.com/) | [Unicam
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
-C++ for Hackers | [Procurar](https:www.link.com/) | [C++ for Hackers](http://pt.slideshare.net/jonbonachon/c-for-hackers) | :us: | :x: | :white_check_mark: | :book: 
-Cplusplus Tutorial | [Procurar](https:www.link.com/) | [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/) | :us: | :x: | :white_check_mark: | :book: 
-Learn CPP | [Procurar](https:www.link.com/) | [Learn CPP](http://www.learncpp.com/) | :us: | :x: | :white_check_mark: | :book: 
-Tutorial Point | [Procurar](https:www.link.com/) | [Tutorial Point](http://www.tutorialspoint.com/cplusplus/) | :us: | :x: | :white_check_mark: | :book: 
-Apostila Linguagem C++ - Silvio Lago | [Procurar](https:www.link.com/) | [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/%7Eslago/slago-C++.pdf) | :us: | :x: | :white_check_mark: | :book: 
-C++ da UFRJ | [Procurar](https:www.link.com/) | [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#) | :us: | :x: | :white_check_mark: | :book: 
-Programação Orientada a Objetos em C++ | [Procurar](https:www.link.com/) | [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) | :us: | :x: | :white_check_mark: | :book:
+C++ for Hackers | [Procurar](www.nãoencontrado.com.br) | [C++ for Hackers](http://pt.slideshare.net/jonbonachon/c-for-hackers) | :us: | :x: | :white_check_mark: | :book: 
+Cplusplus Tutorial | [Procurar](www.nãoencontrado.com.br) | [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/) | :us: | :x: | :white_check_mark: | :book: 
+Learn CPP | [Procurar](www.nãoencontrado.com.br) | [Learn CPP](http://www.learncpp.com/) | :us: | :x: | :white_check_mark: | :book: 
+Tutorial Point | [Procurar](www.nãoencontrado.com.br) | [Tutorial Point](http://www.tutorialspoint.com/cplusplus/) | :us: | :x: | :white_check_mark: | :book: 
+Apostila Linguagem C++ - Silvio Lago | [Procurar](www.nãoencontrado.com.br) | [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/%7Eslago/slago-C++.pdf) | :us: | :x: | :white_check_mark: | :book: 
+C++ da UFRJ | [Procurar](www.nãoencontrado.com.br) | [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#) | :us: | :x: | :white_check_mark: | :book: 
+Programação Orientada a Objetos em C++ | [Procurar](www.nãoencontrado.com.br) | [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) | :us: | :x: | :white_check_mark: | :book:
 
 
 - - -
@@ -76,9 +74,9 @@ Programação Orientada a Objetos em C++ | [Procurar](https:www.link.com/) | [Pr
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
-Documentation - Many Links | [Procurar](https:www.link.com/) | [Documentation - Many Links](https://www.haskell.org/documentation) | :us: | :x: | :white_check_mark: | :book: 
-Aprenda Haskell | [Procurar](https:www.link.com/) | [Aprenda Haskell](http://haskell.tailorfontela.com.br/chapters) | :us: | :x: | :white_check_mark: | :book: 
-Lean X in Y Minutes | [Procurar](https:www.link.com/) | [Lean X in Y Minutes](http://learnxinyminutes.com/docs/pt-br/haskell-pt/) | :us: | :x: | :white_check_mark: | :book: 
+Documentation - Many Links | [Procurar](www.nãoencontrado.com.br) | [Documentation - Many Links](https://www.haskell.org/documentation) | :us: | :x: | :white_check_mark: | :book: 
+Aprenda Haskell | [Procurar](www.nãoencontrado.com.br) | [Aprenda Haskell](http://haskell.tailorfontela.com.br/chapters) | :us: | :x: | :white_check_mark: | :book: 
+Lean X in Y Minutes | [Procurar](www.nãoencontrado.com.br) | [Lean X in Y Minutes](http://learnxinyminutes.com/docs/pt-br/haskell-pt/) | :us: | :x: | :white_check_mark: | :book: 
 
 
 - - -
@@ -135,9 +133,9 @@ Estrutura de Dados| [Boas Práticas JavaScript - Separe Dados de Configuração]
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
-Cooper Book | [Procurar](https:www.link.com/) | [Cooper Book](http://www.franz.com/resources/educational_resources/cooper.book.pdf) | :us: | :x: | :white_check_mark: | :book: 
-Lisp Hackers | [Procurar](https:www.link.com/) | [Lisp Hackers](https://leanpub.com/lisphackers/read) | :us: | :x: | :white_check_mark: | :book: 
-The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://learnlispthehardway.org/book/) | :us: | :x: | :white_check_mark: | :book:  
+Cooper Book | [Procurar](www.nãoencontrado.com.br) | [Cooper Book](http://www.franz.com/resources/educational_resources/cooper.book.pdf) | :us: | :x: | :white_check_mark: | :book: 
+Lisp Hackers | [Procurar](www.nãoencontrado.com.br) | [Lisp Hackers](https://leanpub.com/lisphackers/read) | :us: | :x: | :white_check_mark: | :book: 
+The Hard Way | [Procurar](www.nãoencontrado.com.br) | [The Hard Way](http://learnlispthehardway.org/book/) | :us: | :x: | :white_check_mark: | :book:  
 
 
 - - -
@@ -146,14 +144,14 @@ The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://learnlisp
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
-Beginner Perl | [Procurar](https:www.link.com/) | [Beginner Perl](https://www.perl.org/books/beginning-perl/) | :us: | :x: | :white_check_mark: | :book: 
-Modern Perl | [Procurar](https:www.link.com/) | [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/) | :us: | :x: | :white_check_mark: | :book: 
-Perl in 2 hour | [Procurar](https:www.link.com/) | [Perl in 2 hour](http://qntm.org/files/perl/perl.html) | :us: | :x: | :white_check_mark: | :book: 
-Perl5 in 21 days | [Procurar](https:www.link.com/) | [Perl5 in 21 days](http://wwwacs.gantep.edu.tr/docs/perl-ebook/) | :us: | :x: | :white_check_mark: | :book: 
-The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://www.greenteapress.com/perl/perl.pdf) | :us: | :x: | :white_check_mark: | :book: 
-Toturial Point | [Procurar](https:www.link.com/) | [Toturial Point](http://www.tutorialspoint.com/perl/) | :us: | :x: | :white_check_mark: | :book: 
-Cooler Perl Book | [Procurar](https:www.link.com/) | [Cooler Perl Book](www.docfoc.com/download/documents/book-perl-cooler) | :us: | :x: | :white_check_mark: | :book: 
-Perl Básico | [Procurar](https:www.link.com/) | [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) | :us: | :x: | :white_check_mark: | :book: 
+Beginner Perl | [Procurar](www.nãoencontrado.com.br) | [Beginner Perl](https://www.perl.org/books/beginning-perl/) | :us: | :x: | :white_check_mark: | :book: 
+Modern Perl | [Procurar](www.nãoencontrado.com.br) | [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/) | :us: | :x: | :white_check_mark: | :book: 
+Perl in 2 hour | [Procurar](www.nãoencontrado.com.br) | [Perl in 2 hour](http://qntm.org/files/perl/perl.html) | :us: | :x: | :white_check_mark: | :book: 
+Perl5 in 21 days | [Procurar](www.nãoencontrado.com.br) | [Perl5 in 21 days](http://wwwacs.gantep.edu.tr/docs/perl-ebook/) | :us: | :x: | :white_check_mark: | :book: 
+The Hard Way | [Procurar](www.nãoencontrado.com.br) | [The Hard Way](http://www.greenteapress.com/perl/perl.pdf) | :us: | :x: | :white_check_mark: | :book: 
+Toturial Point | [Procurar](www.nãoencontrado.com.br) | [Toturial Point](http://www.tutorialspoint.com/perl/) | :us: | :x: | :white_check_mark: | :book: 
+Cooler Perl Book | [Procurar](www.nãoencontrado.com.br) | [Cooler Perl Book](www.docfoc.com/download/documents/book-perl-cooler) | :us: | :x: | :white_check_mark: | :book: 
+Perl Básico | [Procurar](www.nãoencontrado.com.br) | [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) | :us: | :x: | :white_check_mark: | :book: 
 
 
 - - - 
@@ -174,19 +172,19 @@ The Right Way | Procurar | [The Right Way](http://www.phptherightway.com/) | :us
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
-A Byte of Python | [Procurar](https:www.link.com/) | [A Byte of Python](http://www.swaroopch.com/notes/python/) | :us: | :x: | :white_check_mark: | :book: 
-Dive Into Python | [Procurar](https:www.link.com/) | [Dive Into Python](http://www.diveintopython.net/toc/index.html) | :us: | :x: | :white_check_mark: | :book: 
-Fundamental Python | [Procurar](https:www.link.com/) | [Fundamental Python](https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/index.html) | :us: | :x: | :white_check_mark: | :book: 
-Google Developer | [Procurar](https:www.link.com/) | [Google Developer](https://developers.google.com/edu/python/) | :us: | :x: | :white_check_mark: | :book: 
-How to Think like a Scientist | [Procurar](https:www.link.com/) | [How to Think like a Scientist](http://openbookproject.net/thinkcs/python/english3e/) | :us: | :x: | :white_check_mark: | :book: 
-Learn Break Python | [Procurar](https:www.link.com/) | [Learn Break Python](http://learnpythonbreakpython.com/) | :us: | :x: | :white_check_mark: | :book: 
-Practice Python | [Procurar](https:www.link.com/) | [Practice Python](http://anandology.com/python-practice-book/) | :us: | :x: | :white_check_mark: | :book: 
-Python to Beginners | [Procurar](https:www.link.com/) | [Python to Beginners](http://openteool.github.io/python-beginners/en/index.html) | :us: | :x: | :white_check_mark: | :book: 
-Test-Driven Development with Python | [Procurar](https:www.link.com/) | [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) | :us: | :x: | :white_check_mark: | :book: 
-The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://learnpythonthehardway.org/book/) | :us: | :x: | :white_check_mark: | :book: 
-Codecademy | [Procurar](https:www.link.com/) | [Codecademy](http://www.codecademy.com/pt-BR/tracks/python) | :us: | :x: | :white_check_mark: | :book: 
-Python para Desenvolvedores 2ed | [Procurar](https:www.link.com/) | [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) | :us: | :x: | :white_check_mark: | :book: 
-Python para Zumbi | [Procurar](https:www.link.com/) | [Python para Zumbi](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc) | :us: | :x: | :white_check_mark: | :book: 
+A Byte of Python | [Procurar](www.nãoencontrado.com.br) | [A Byte of Python](http://www.swaroopch.com/notes/python/) | :us: | :x: | :white_check_mark: | :book: 
+Dive Into Python | [Procurar](www.nãoencontrado.com.br) | [Dive Into Python](http://www.diveintopython.net/toc/index.html) | :us: | :x: | :white_check_mark: | :book: 
+Fundamental Python | [Procurar](www.nãoencontrado.com.br) | [Fundamental Python](https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/index.html) | :us: | :x: | :white_check_mark: | :book: 
+Google Developer | [Procurar](www.nãoencontrado.com.br) | [Google Developer](https://developers.google.com/edu/python/) | :us: | :x: | :white_check_mark: | :book: 
+How to Think like a Scientist | [Procurar](www.nãoencontrado.com.br) | [How to Think like a Scientist](http://openbookproject.net/thinkcs/python/english3e/) | :us: | :x: | :white_check_mark: | :book: 
+Learn Break Python | [Procurar](www.nãoencontrado.com.br) | [Learn Break Python](http://learnpythonbreakpython.com/) | :us: | :x: | :white_check_mark: | :book: 
+Practice Python | [Procurar](www.nãoencontrado.com.br) | [Practice Python](http://anandology.com/python-practice-book/) | :us: | :x: | :white_check_mark: | :book: 
+Python to Beginners | [Procurar](www.nãoencontrado.com.br) | [Python to Beginners](http://openteool.github.io/python-beginners/en/index.html) | :us: | :x: | :white_check_mark: | :book: 
+Test-Driven Development with Python | [Procurar](www.nãoencontrado.com.br) | [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) | :us: | :x: | :white_check_mark: | :book: 
+The Hard Way | [Procurar](www.nãoencontrado.com.br) | [The Hard Way](http://learnpythonthehardway.org/book/) | :us: | :x: | :white_check_mark: | :book: 
+Codecademy | [Procurar](www.nãoencontrado.com.br) | [Codecademy](http://www.codecademy.com/pt-BR/tracks/python) | :us: | :x: | :white_check_mark: | :book: 
+Python para Desenvolvedores 2ed | [Procurar](www.nãoencontrado.com.br) | [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) | :us: | :x: | :white_check_mark: | :book: 
+Python para Zumbi | [Procurar](www.nãoencontrado.com.br) | [Python para Zumbi](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc) | :us: | :x: | :white_check_mark: | :book: 
      
 
 - - -
@@ -195,13 +193,13 @@ Python para Zumbi | [Procurar](https:www.link.com/) | [Python para Zumbi](https:
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
-Ruby for Kids | [Procurar](https:www.link.com/) | [Ruby for Kids](http://mrdougwright.gitbooks.io/rubykin/content/) | :us: | :x: | :white_check_mark: | :book: 
-Ruby Hacking Guide | [Procurar](https:www.link.com/) | [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/) | :us: | :x: | :white_check_mark: | :book: 
-Ruby Programming Tutorials  | [Procurar](https:www.link.com/) | [Ruby Programming Tutorials ](https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp) | :us: | :x: | :white_check_mark: | :book: 
-The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://learnrubythehardway.org/book/) | :us: | :x: | :white_check_mark: | :book: 
-Codecademy | [Procurar](https:www.link.com/) | [Codecademy](http://www.codecademy.com/pt-BR/learn/ruby) | :us: | :x: | :white_check_mark: | :book: 
-O Guia (comovente) de Ruby | [Procurar](https:www.link.com/) | [O Guia (comovente) de Ruby](comovente) | :us: | :x: | :white_check_mark: | :book: 
-Aprenda a Programar | [Procurar](https:www.link.com/) | [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br/) | :us: | :x: | :white_check_mark: | :book: 
+Ruby for Kids | [Procurar](www.nãoencontrado.com.br) | [Ruby for Kids](http://mrdougwright.gitbooks.io/rubykin/content/) | :us: | :x: | :white_check_mark: | :book: 
+Ruby Hacking Guide | [Procurar](www.nãoencontrado.com.br) | [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/) | :us: | :x: | :white_check_mark: | :book: 
+Ruby Programming Tutorials  | [Procurar](www.nãoencontrado.com.br) | [Ruby Programming Tutorials ](https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp) | :us: | :x: | :white_check_mark: | :book: 
+The Hard Way | [Procurar](www.nãoencontrado.com.br) | [The Hard Way](http://learnrubythehardway.org/book/) | :us: | :x: | :white_check_mark: | :book: 
+Codecademy | [Procurar](www.nãoencontrado.com.br) | [Codecademy](http://www.codecademy.com/pt-BR/learn/ruby) | :us: | :x: | :white_check_mark: | :book: 
+O Guia (comovente) de Ruby | [Procurar](www.nãoencontrado.com.br) | [O Guia (comovente) de Ruby](comovente) | :us: | :x: | :white_check_mark: | :book: 
+Aprenda a Programar | [Procurar](www.nãoencontrado.com.br) | [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br/) | :us: | :x: | :white_check_mark: | :book: 
     
 
 - - -
@@ -210,12 +208,12 @@ Aprenda a Programar | [Procurar](https:www.link.com/) | [Aprenda a Programar](ht
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
-A Beginner Handbook | [Procurar](https:www.link.com/) | [A Beginner Handbook](http://www.freeos.com/guides/lsst/) | :us: | :x: | :white_check_mark: | :book: 
-Advanced Bash - Scripting Guide | [Procurar](https:www.link.com/) | [Advanced Bash - Scripting Guide](http://www.tldp.org/LDP/abs/html/index.html) | :us: | :x: | :white_check_mark: | :book: 
-Bash Programming - How To | [Procurar](https:www.link.com/) | [Bash Programming - How To](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | :us: | :x: | :white_check_mark: | :book: 
-Devmedia | [Procurar](https:www.link.com/) | [Devmedia](http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778) | :us: | :x: | :white_check_mark: | :book: 
-Introdução ao Shell - Aurélio | [Procurar](https:www.link.com/) | [Introdução ao Shell - Aurélio](http://aurelio.net/shell/apostila-introducao-shell.pdf) | :us: | :x: | :white_check_mark: | :book: 
-Tutorial Shell Script | [Procurar](https:www.link.com/) | [Tutorial Shell Script](http://www.devin.com.br/shell_script/) | :us: | :x: | :white_check_mark: | :book: 
+A Beginner Handbook | [Procurar](www.nãoencontrado.com.br) | [A Beginner Handbook](http://www.freeos.com/guides/lsst/) | :us: | :x: | :white_check_mark: | :book: 
+Advanced Bash - Scripting Guide | [Procurar](www.nãoencontrado.com.br) | [Advanced Bash - Scripting Guide](http://www.tldp.org/LDP/abs/html/index.html) | :us: | :x: | :white_check_mark: | :book: 
+Bash Programming - How To | [Procurar](www.nãoencontrado.com.br) | [Bash Programming - How To](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | :us: | :x: | :white_check_mark: | :book: 
+Devmedia | [Procurar](www.nãoencontrado.com.br) | [Devmedia](http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778) | :us: | :x: | :white_check_mark: | :book: 
+Introdução ao Shell - Aurélio | [Procurar](www.nãoencontrado.com.br) | [Introdução ao Shell - Aurélio](http://aurelio.net/shell/apostila-introducao-shell.pdf) | :us: | :x: | :white_check_mark: | :book: 
+Tutorial Shell Script | [Procurar](www.nãoencontrado.com.br) | [Tutorial Shell Script](http://www.devin.com.br/shell_script/) | :us: | :x: | :white_check_mark: | :book: 
 
 
 - - -  
@@ -228,10 +226,10 @@ Tutorial Shell Script | [Procurar](https:www.link.com/) | [Tutorial Shell Script
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
-Twitter Bootstrap Succinctly | [Procurar](https:www.link.com/) | [Twitter Bootstrap Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) | :us: | :x: | :white_check_mark: | :book: 
-Twitter Bootstrap Succinctly 3 | [Procurar](https:www.link.com/) | [Twitter Bootstrap Succinctly 3](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) | :us: | :x: | :white_check_mark: | :book: 
-Canal JCursos | [Procurar](https:www.link.com/) | [Canal JCursos](https://www.youtube.com/playlist?list=PLdRLfw1rdyFEtDGAcPoPFQg5po6i3XJtz) | :us: | :x: | :white_check_mark: | :book: 
-Canal PontoCanal | [Procurar](https:www.link.com/) | [Canal PontoCanal](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVqVsGPcq1eojBJH5Lxq8hTQ) | :us: | :x: | :white_check_mark: | :book: 
+Twitter Bootstrap Succinctly | [Procurar](www.nãoencontrado.com.br) | [Twitter Bootstrap Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) | :us: | :x: | :white_check_mark: | :book: 
+Twitter Bootstrap Succinctly 3 | [Procurar](www.nãoencontrado.com.br) | [Twitter Bootstrap Succinctly 3](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) | :us: | :x: | :white_check_mark: | :book: 
+Canal JCursos | [Procurar](www.nãoencontrado.com.br) | [Canal JCursos](https://www.youtube.com/playlist?list=PLdRLfw1rdyFEtDGAcPoPFQg5po6i3XJtz) | :us: | :x: | :white_check_mark: | :book: 
+Canal PontoCanal | [Procurar](www.nãoencontrado.com.br) | [Canal PontoCanal](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVqVsGPcq1eojBJH5Lxq8hTQ) | :us: | :x: | :white_check_mark: | :book: 
 
 
 - - -
@@ -240,12 +238,12 @@ Canal PontoCanal | [Procurar](https:www.link.com/) | [Canal PontoCanal](https://
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
-Djen of Django | [Procurar](https:www.link.com/) | [Djen of Django](http://agiliq.com/books/djenofdjango/) | :us: | :x: | :white_check_mark: | :book: 
-Effective Django | [Procurar](https:www.link.com/) | [Effective Django](http://www.effectivedjango.com/) | :us: | :x: | :white_check_mark: | :book: 
-Getting Started with Django | [Procurar](https:www.link.com/) | [Getting Started with Django](http://gettingstartedwithdjango.com/) | :us: | :x: | :white_check_mark: | :book: 
-The Django Book | [Procurar](https:www.link.com/) | [The Django Book](http://www.djangobook.com/en/2.0/) | :us: | :x: | :white_check_mark: | :book: 
-Mixincode | [Procurar](https:www.link.com/) | [Mixincode](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) | :us: | :x: | :white_check_mark: | :book: 
-Python e Django | [Procurar](https:www.link.com/) | [Python e Django](https://osantana.me/curso-de-python-e-django/) | :us: | :x: | :white_check_mark: | :book: 
+Djen of Django | [Procurar](www.nãoencontrado.com.br) | [Djen of Django](http://agiliq.com/books/djenofdjango/) | :us: | :x: | :white_check_mark: | :book: 
+Effective Django | [Procurar](www.nãoencontrado.com.br) | [Effective Django](http://www.effectivedjango.com/) | :us: | :x: | :white_check_mark: | :book: 
+Getting Started with Django | [Procurar](www.nãoencontrado.com.br) | [Getting Started with Django](http://gettingstartedwithdjango.com/) | :us: | :x: | :white_check_mark: | :book: 
+The Django Book | [Procurar](www.nãoencontrado.com.br) | [The Django Book](http://www.djangobook.com/en/2.0/) | :us: | :x: | :white_check_mark: | :book: 
+Mixincode | [Procurar](www.nãoencontrado.com.br) | [Mixincode](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) | :us: | :x: | :white_check_mark: | :book: 
+Python e Django | [Procurar](www.nãoencontrado.com.br) | [Python e Django](https://osantana.me/curso-de-python-e-django/) | :us: | :x: | :white_check_mark: | :book: 
 
 
 - - -
@@ -254,11 +252,11 @@ Python e Django | [Procurar](https:www.link.com/) | [Python e Django](https://os
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
-The Odin Project | [Procurar](https:www.link.com/) | [The Odin Project](http://www.theodinproject.com/ruby-on-rails) | :us: | :x: | :white_check_mark: | :book: 
-Thinkful | [Procurar](https:www.link.com/) | [Thinkful](http://www.thinkful.com/learn/ruby-on-rails-tutorial/) | :us: | :x: | :white_check_mark: | :book: 
-Rails Tutorial | [Procurar](https:www.link.com/) | [Rails Tutorial](https://www.railstutorial.org/book) | :us: | :x: | :white_check_mark: | :book: 
-Caelum | [Procurar](https:www.link.com/) | [Caelum](http://www.caelum.com.br/apostila-ruby-on-rails/) | :us: | :x: | :white_check_mark: | :book: 
-Rails Girls Traduzido | [Procurar](https:www.link.com/) | [Rails Girls Traduzido](http://www.maujor.com/railsgirlsguide/) | :us: | :x: | :white_check_mark: | :book: 
+The Odin Project | [Procurar](www.nãoencontrado.com.br) | [The Odin Project](http://www.theodinproject.com/ruby-on-rails) | :us: | :x: | :white_check_mark: | :book: 
+Thinkful | [Procurar](www.nãoencontrado.com.br) | [Thinkful](http://www.thinkful.com/learn/ruby-on-rails-tutorial/) | :us: | :x: | :white_check_mark: | :book: 
+Rails Tutorial | [Procurar](www.nãoencontrado.com.br) | [Rails Tutorial](https://www.railstutorial.org/book) | :us: | :x: | :white_check_mark: | :book: 
+Caelum | [Procurar](www.nãoencontrado.com.br) | [Caelum](http://www.caelum.com.br/apostila-ruby-on-rails/) | :us: | :x: | :white_check_mark: | :book: 
+Rails Girls Traduzido | [Procurar](www.nãoencontrado.com.br) | [Rails Girls Traduzido](http://www.maujor.com/railsgirlsguide/) | :us: | :x: | :white_check_mark: | :book: 
 
 
 [brazilian-flag]: https://github.com/cienciahacker/Index/blob/master/matrix/arquivos/img/brazil_flag.png
