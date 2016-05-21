@@ -42,7 +42,7 @@ Algo errado? [Contribua][contribua]
 
 
 ## [C](http://en.cppreference.com/w/c)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -57,7 +57,7 @@ Unicamp - Introdução ao Curso de C | [Procurar](https:www.link.com/) | [Unicam
 
 - - -  
 ## [C++](http://en.cppreference.com/w/cpp)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -72,7 +72,7 @@ Programação Orientada a Objetos em C++ | [Procurar](https:www.link.com/) | [Pr
 
 - - -
 ## [Haskell](https://www.haskell.org/)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -83,7 +83,7 @@ Lean X in Y Minutes | [Procurar](https:www.link.com/) | [Lean X in Y Minutes](ht
 
 - - -
 ## [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -95,7 +95,7 @@ HTML5 Tutorial | [W3schools](http://www.w3schools.com/) | [HTML5 Tutorial](http:
 
 - - -
 ## [Java](http://www.oracle.com/technetwork/java/javase/documentation/index.html)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -104,7 +104,7 @@ Introdução à Ciência da Computação com Java e Orientação a Objetos| [CCS
 
 - - - 
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-### Apostilas & Cursos  
+### Cursos  
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -131,7 +131,7 @@ Estrutura de Dados| [Boas Práticas JavaScript - Separe Dados de Configuração]
 
 - - - 
 ## [Lisp](http://lispdoc.com/index)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -142,7 +142,7 @@ The Hard Way | [Procurar](https:www.link.com/) | [The Hard Way](http://learnlisp
 
 - - -
 ## [Perl](http://doc.perl6.org/)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -158,7 +158,7 @@ Perl Básico | [Procurar](https:www.link.com/) | [Perl Básico](https://github.c
 
 - - - 
 ## [PHP](https://php.net/manual/pt_BR/index.php)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -170,7 +170,7 @@ The Right Way | Procurar | [The Right Way](http://www.phptherightway.com/) | :us
 
 - - -
 ## [Python](https://www.python.org/doc/versions/)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -191,7 +191,7 @@ Python para Zumbi | [Procurar](https:www.link.com/) | [Python para Zumbi](https:
 
 - - -
 ## [Ruby](http://ruby-doc.org/)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -206,7 +206,7 @@ Aprenda a Programar | [Procurar](https:www.link.com/) | [Aprenda a Programar](ht
 
 - - -
 ## [Shell Script](http://www.tldp.org/LDP/abs/html/)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -224,7 +224,7 @@ Tutorial Shell Script | [Procurar](https:www.link.com/) | [Tutorial Shell Script
 
 
 ## [Bootstrap](https://bootstrapdocs.com/)  
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
@@ -236,7 +236,7 @@ Canal PontoCanal | [Procurar](https:www.link.com/) | [Canal PontoCanal](https://
 
 - - -
 ## [Django](https://docs.djangoproject.com/en/1.8/)  
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
@@ -250,7 +250,7 @@ Python e Django | [Procurar](https:www.link.com/) | [Python e Django](https://os
 
 - - -
 ## [Ruby on Rails](http://guides.rubyonrails.org/)
-### Apostilas & Cursos
+### Cursos
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
