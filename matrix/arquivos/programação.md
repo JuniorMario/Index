@@ -99,9 +99,9 @@ HTML5 Tutorial | [W3schools](http://www.w3schools.com/) | [HTML5 Tutorial](http:
 
 Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo
 :-- | :-- | :-- | :--: | :--: | :--: | :--:
-Java e Orientação a Objetos | [Caelum](https://www.caelum.com.br) | [Java e OO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :white_check_mark: | :x: | :book:
+Algoritmos e Estruturas de Dados com Java | [Caelum](https://www.caelum.com.br) | [Algoritmos e estruturas de dados com Java](https://www.caelum.com.br/apostila-java-estrutura-dados/) | ![][brazilian-flag] | :white_check_mark: | :x: | :book:
 Introdução à Ciência da Computação com Java e Orientação a Objetos| [CCSL-USP](http://ccsl.ime.usp.br/) | [Introdução à Ciência da Computação com Java e Orientação a Objetos](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf) | ![][brazilian-flag] | :white_check_mark: | :x: | :book:
-Algoritmos e estruturas de dados com Java | [Caelum](https://www.caelum.com.br) | [Algoritmos e estruturas de dados com Java](https://www.caelum.com.br/apostila-java-estrutura-dados/) | ![][brazilian-flag] | :white_check_mark: | :x: | :book:
+Java e Orientação a Objetos | [Caelum](https://www.caelum.com.br) | [Java e OO](https://www.caelum.com.br/apostila-java-orientacao-objetos) | ![][brazilian-flag] | :white_check_mark: | :x: | :book:
 
 - - - 
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
