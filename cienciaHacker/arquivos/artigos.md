@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [blog](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Análise de Redes Wireless – Wifite – PixieWPS](https://blog.cienciahacker.ch/analise-de-redes-wireless-wifite-pixiewps/)  
+Hoje iremos ver mais uma ferramenta de ataque a redes wireless, o Wifite, com o diferencial que esta ferramenta automatiza o processo de ataque e faz uso das outras ferramentas citadas (suite aircrack-ng), reaver (Protect Setup Attack Tool) e também do pixiewsp (Pixie Dust Attack Tool).
+
 ###[Atacando roteadores com WPS Ativo – Wash / Reaver / Bully](https://blog.cienciahacker.ch/atacando-roteadores-com-wps-ativo-wash-reaver-bully/)  
 Como vimos no post passado sobre a suíte aircrack-ng, utilizada para descobrir senhas de redes wireless, é de extrema importância utilizarmos senhas fortes que sejam complexas o suficiente para “desmotivar” a quebra via brute-force com dicionário de senhas (wordlist). Mas como ressaltamos na conclusão, isso não garante nenhuma segurança se, por exemplo, não tivermos atenção …
 
