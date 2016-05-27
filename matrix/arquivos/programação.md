@@ -67,9 +67,9 @@ Programação Orientada a Objetos em C++ para GNU/Linux | [Andre Duarte Bueno](w
 
 Nome | Autor | Plataforma | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
-Cplusplus Tutorial | [Procurar](www.nãoencontrado.com.br) | [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/) | :us: | :x: | :white_check_mark: | :book: 
-Learn CPP | [Procurar](www.nãoencontrado.com.br) | [Learn CPP](http://www.learncpp.com/) | :us: | :x: | :white_check_mark: | :book: 
-Tutorial Point | [Procurar](www.nãoencontrado.com.br) | [Tutorial Point](http://www.tutorialspoint.com/cplusplus/) | :us: | :x: | :white_check_mark: | :book: 
+Cplusplus Tutorial | [Procurar](www.nãoencontrado.com.br) | [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/) | :us: | :x: | :x: | :book: 
+Learn CPP | [Procurar](www.nãoencontrado.com.br) | [Learn CPP](http://www.learncpp.com/) | :us: | :x: | :x: | :book: 
+Tutorial Point | [Procurar](www.nãoencontrado.com.br) | [Tutorial Point](http://www.tutorialspoint.com/cplusplus/) | :us: | :x: | :x: | :book: 
 
 
 - - -
