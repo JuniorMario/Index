@@ -14,6 +14,7 @@ Algo errado? [Contribua][contribua]
 :white_check_mark: = Disponível opção de download "oficial" / É necessário fazer cadastro para acessar o conteúdo.  
 :book: = Conteúdo está em total - ou sua maior parte - formato de texto.  
 :camera: = Conteúdo está em total - ou sua maior parte - formato de vídeo.  
+:arrow_down: = Download direto.
 - - -
 
 # Índice
@@ -55,17 +56,20 @@ Tutorial Point | [Tutorial Point](http://www.tutorialspoint.com/) | [Tutorial Po
 
 - - -  
 ## [C++](http://en.cppreference.com/w/cpp)
-### Cursos
+### Livros
 
-Nome | Autor | Curso | Lang | Download | Cadastro | Sufixo 
+Nome | Autor | Livro | Lang | Download | Cadastro | Sufixo 
 :-- | :-- | :-- | :--: | :--: | :--: | :--:  
-C++ for Hackers | [Procurar](www.nãoencontrado.com.br) | [C++ for Hackers](http://pt.slideshare.net/jonbonachon/c-for-hackers) | :us: | :x: | :white_check_mark: | :book: 
+Linguagem C++ | [Silvio do Lago Pereira](www.nãoencontrado.com.br) | [Linguagem C++](http://www.ime.usp.br/%7Eslago/slago-C++.pdf) | ![][brazilian-flag] | :arrow_down: | :x: | :book:  
+Programação Orientada a Objetos em C++ para GNU/Linux | [Andre Duarte Bueno](www.nãoencontrado.com.br) | [Programação Orientada a Objetos em C++ para GNU/Linux](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) | ![][brazilian-flag] | :arrow_down: | :x: | :book:  
+
+### Outros
+
+Nome | Autor | Plataforma | Lang | Download | Cadastro | Sufixo 
+:-- | :-- | :-- | :--: | :--: | :--: | :--:  
 Cplusplus Tutorial | [Procurar](www.nãoencontrado.com.br) | [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/) | :us: | :x: | :white_check_mark: | :book: 
 Learn CPP | [Procurar](www.nãoencontrado.com.br) | [Learn CPP](http://www.learncpp.com/) | :us: | :x: | :white_check_mark: | :book: 
 Tutorial Point | [Procurar](www.nãoencontrado.com.br) | [Tutorial Point](http://www.tutorialspoint.com/cplusplus/) | :us: | :x: | :white_check_mark: | :book: 
-Apostila Linguagem C++ - Silvio Lago | [Procurar](www.nãoencontrado.com.br) | [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/%7Eslago/slago-C++.pdf) | :us: | :x: | :white_check_mark: | :book: 
-C++ da UFRJ | [Procurar](www.nãoencontrado.com.br) | [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#) | :us: | :x: | :white_check_mark: | :book: 
-Programação Orientada a Objetos em C++ | [Procurar](www.nãoencontrado.com.br) | [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) | :us: | :x: | :white_check_mark: | :book:
 
 
 - - -
